@@ -111,7 +111,7 @@ Youtube 如何让我们通过[`<iframe>`](/zh-CN/docs/Web/HTML/Element/iframe)�
   - : 如果设置为 1，则会告诉浏览器在此框架和其他框架之间绘制边框，这是默认行为。0 删除边框。不推荐这样设置，因为在 [CSS
     中](/zh-CN/docs/Glossary/CSS)可以更好地实现相同的效果。[`border`](/zh-CN/docs/Web/CSS/border)`: none;`
 - [`src`](/zh-CN/docs/Web/HTML/Element/iframe#attr-src)
-  - : 该属性与 [`<video>`](/zh-CN/docs/Web/HTML/Element/video) / 元素表示文档中的图像。[`<img>`](/zh-CN/docs/Web/HTML/Element/img)一样包含指向要嵌入文档的
+  - : 该属性与 [`<video>`](/zh-CN/docs/Web/HTML/Element/video) / [`<img>`](/zh-CN/docs/Web/HTML/Element/img)一样，包含指向要嵌入文档的
     URL 路径。
 - [`width`](/zh-CN/docs/Web/HTML/Element/iframe#attr-width) 和 [`height`](/zh-CN/docs/Web/HTML/Element/iframe#attr-height)
   - : 这些属性指定你想要的 iframe 的宽度和高度。
